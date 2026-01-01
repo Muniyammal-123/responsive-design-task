@@ -1,0 +1,33 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>My First Website</h1>
+        <p>Welcome to my project</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>This is my first web development project.</p>
+    </section>
+
+    <section>
+        <h2>Features</h2>
+        <ul>
+            <li>Simple Design</li>
+            <li>Beginner Friendly</li>
+            <li>Responsive Layout</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 My Website</p>
+    </footer>
+
+</body>
+</html>
